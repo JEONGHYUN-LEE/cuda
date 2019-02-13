@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55990662-985c-48a3-a418-d800df9bcc69" name="gpu" url="http://166.104.185.42">
+        <fileTransfer host="166.104.185.42" port="7002" rootFolder="/home/nomar0107" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="7002" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
