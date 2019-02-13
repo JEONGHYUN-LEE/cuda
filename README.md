@@ -1,6 +1,6 @@
 # CUDA
 
-## Generate GPU Array Pattern
+## Generating GPU Array Pattern
 
 * Allocate host memory and fill the values
 
