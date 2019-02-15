@@ -2,7 +2,7 @@
 description: 'reference : Professional CUDA C Programming'
 ---
 
-# CUDA
+# Basic Patterns
 
 ## Generating GPU Vector Pattern
 

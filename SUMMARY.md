@@ -1,4 +1,5 @@
 # Table of contents
 
-* [CUDA](README.md)
+* [Basic Patterns](README.md)
+* [Warp Divergence](warp-divergence.md)
 
